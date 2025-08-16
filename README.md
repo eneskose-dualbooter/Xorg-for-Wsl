@@ -1,5 +1,7 @@
 # Xorg-for-Wsl
 
+📥 [v0.1 sürümünü indir](https://github.com/eneskose-dualbooter/xorg-for-wsl/releases/tag/v0.1)
+
 WSL ortamında Xorg kurulumu için otomatikleştirilmiş bir shell script.  
 GUI destekli Linux uygulamalarını Windows üzerinde çalıştırmak isteyenler için sade ve belgeli bir çözüm sunar.
 
