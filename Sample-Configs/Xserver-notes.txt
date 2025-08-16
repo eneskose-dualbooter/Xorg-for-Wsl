@@ -1,0 +1,5 @@
+Windows tarafında X Server (VcXsrv) başlatılırken:
+- Disable access control seçilmeli
+- Display number: 0
+- Native opengl: off
+
