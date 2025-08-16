@@ -1,0 +1,5 @@
+#!/bin/bash
+# Örnek Xorg başlatma dosyası
+
+xrdb -merge ~/.Xresources
+exec startxfce4
